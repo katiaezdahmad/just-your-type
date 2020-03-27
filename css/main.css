@@ -8,17 +8,16 @@ body {
   color: #fff;
 }
 
-.script {
-  font-family: "Dancing Script", cursive;
-  color: #ca0a64;
-}
-
 .border {
   border-style: dotted;
   color: #fff;
   border-width: thick;
 }
 
+.script {
+  font-family: "Dancing Script", cursive;
+  color: #ca0a64;
+}
 @media only screen and (min-width: 60em) {
 
   .box-1 {
