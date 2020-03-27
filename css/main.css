@@ -24,12 +24,12 @@ body {
     text-align: left;
   }
 
-  .audrey {
-    text-align: left;
-  }
-
   .script {
     color: #ca0a64;
+  }
+
+  .audrey {
+    text-align: left;
   }
 
 }
